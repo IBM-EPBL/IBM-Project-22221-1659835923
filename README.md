@@ -7,8 +7,8 @@ Team Size : 4
 
 Team Lead : HARIHARAN M
 
-M1 Lead  : MAHAN K
+M1 Lead  : HEMANATH C
 
-M2 Lead  : HEMANATH C
+M2 Lead  : LOKESH D
 
-M3 Lead  : Lokesh D
+M3 Lead  : MAHAN K
