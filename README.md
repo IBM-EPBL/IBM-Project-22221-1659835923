@@ -1,7 +1,7 @@
 # IBM-Project-22221-1659835923
-Fertilizers Recommendation System For Disease Prediction
+# Fertilizers Recommendation System For Disease Prediction
 
-Team ID : 
+Team ID : PNT2022TMID10804
 
 Team Size : 4
 
